@@ -5,3 +5,5 @@ Create a cloudinary account to get an API key and secret code
 Create a .env file (or just export manually in the terminal) in the root of the project.
 Run mongod in another terminal and node app.js in the terminal with the project.
 Then go to localhost:3000.
+
+Deployed at https://pacific-caverns-97737.herokuapp.com/
